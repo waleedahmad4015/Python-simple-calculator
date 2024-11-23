@@ -1,6 +1,5 @@
-Here's a `README.md` file for your Python calculator:
 
-```markdown
+
 # Python Calculator
 
 This is a simple Python-based calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. It takes user input for the operator and numbers, then computes and prints the result.
