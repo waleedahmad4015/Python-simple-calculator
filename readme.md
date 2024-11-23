@@ -52,7 +52,3 @@ Enter the 2nd Number: 5
 ## License
 
 This project is open-source and free to use. Feel free to modify or distribute it.
-
-```
-
-This `README.md` provides clear instructions on how to run and use your Python calculator, as well as explaining the program’s behavior and error handling.
